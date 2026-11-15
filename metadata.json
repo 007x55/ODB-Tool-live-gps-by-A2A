@@ -1,0 +1,6 @@
+{
+  "name": "A2A",
+  "description": "Smart Vehicle Tracking, OBD2 Telemetry & ECU Tuning Monitor (ESP32 + SIM A7670E)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

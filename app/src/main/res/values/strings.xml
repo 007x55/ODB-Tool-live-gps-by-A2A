@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">A2A</string>
+    <string name="app_subtitle">Smart Vehicle &amp; ECU Telemetry</string>
+    <string name="nav_overview">ภาพรวม</string>
+    <string name="nav_map">แผนที่สด</string>
+    <string name="nav_obd2">OBD2 / จูนกล่อง</string>
+    <string name="nav_history">ประวัติ</string>
+    <string name="status_online">ออนไลน์</string>
+    <string name="status_offline">ออฟไลน์</string>
+    <string name="status_parked">จอดอยู่</string>
+    <string name="status_driving">กำลังวิ่ง</string>
+    <string name="add_device">เพิ่มอุปกรณ์</string>
+    <string name="ecu_tune_title">จูนกล่องควบคุม (ECU Map)</string>
+    <string name="car_studio_title">Car Studio • แต่งสีรถ &amp; กระจก</string>
+    <string name="model_picker_title">เลือกโมเดลรถ 3D</string>
+    <string name="hud_picker_title">เลือกค่าแสดงผล</string>
+    <string name="error_network_telemetry">ไม่สามารถเชื่อมต่อ ESP32/Server ได้ แสดงข้อมูลล่าสุด</string>
+</resources>
